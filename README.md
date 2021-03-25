@@ -6,5 +6,5 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/alexis-tonneau" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alexis-tonneau" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexis-tonneau" target="blank"><img align="center" src="https://img.icons8.com/fluent/344/linkedin.png" alt="alexis-tonneau" height="40" width="40" /></a>
 </p>
