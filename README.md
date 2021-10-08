@@ -15,3 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/alexis-tonneau" target="blank"><img align="center" src="https://img.icons8.com/fluent/344/linkedin.png" alt="alexis-tonneau" height="40" width="40" /></a>
 </p>
+
+
+[![Alexis' GitHub stats](https://github-readme-stats.vercel.app/api?username=alexistonneau)](https://github.com/alexistonneau/github-readme-stats)
